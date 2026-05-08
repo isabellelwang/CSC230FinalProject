@@ -1,3 +1,4 @@
+# CSC230 FINAL PROJECT: TESTIMONIALS
 It was commonly men who were ordained into priesthood in RLDS. After 1980s, more women were ordained. Such movement was due to reasons like women gaining inspiration from other women or being supported by the people around them. 
 
 
